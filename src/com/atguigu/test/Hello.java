@@ -5,6 +5,6 @@ public class Hello {
 		System.out.println("²âÊÔ");
 		System.out.println("²âÊÔ2");
 		System.out.println("²àÊÓ 3");
-		System.out.println("Ìá½»8");
+		System.out.println("Ìá½»9");
 	}
 }
